@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Yita's github stats](https://github-readme-stats.vercel.app/api?username=Yita55&show_icons=true&theme=radical)
+
 <!--
 **Yita55/Yita55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
